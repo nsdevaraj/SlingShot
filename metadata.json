@@ -1,0 +1,7 @@
+{
+  "name": "Slingshot",
+  "description": "A webcam-controlled bubble shooter game.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
